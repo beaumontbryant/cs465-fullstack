@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\app_server",
+    "\\app_server\\controllers",
+    "\\app_server\\routes",
+    "\\app_server\\views",
+    "\\app_server\\views\\partials"
   ],
-  "SelectedNode": "\\travlr",
+  "SelectedNode": "\\app_server\\routes\\travel.js",
   "PreviewInSolutionExplorer": false
 }
